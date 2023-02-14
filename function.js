@@ -40,7 +40,7 @@ let students = [
         mathematics: 4,
     },
 ];
-
+/* Estrutura condiciona composta if else */
 if (students[0].mathematics < 7) {
     alert("Reprovado");
 } else alert("Aprovado");
